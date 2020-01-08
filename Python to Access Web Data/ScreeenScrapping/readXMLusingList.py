@@ -21,6 +21,7 @@ lst = stuff.findall('users/user')
 print('User count:', len(lst))
 
 for item in lst:
+    print(item)
     print('Name', item.find('name').text)
     print('Id', item.find('id').text)
     print('age', item.find('age').text)
