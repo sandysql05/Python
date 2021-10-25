@@ -5,7 +5,7 @@ import requests
 from datetime import datetime, timedelta
 from urllib.parse import urlencode
 import pandas as pd
-import pysftp
+#import pysftp
 
 now = datetime.now()
 
@@ -199,24 +199,14 @@ try:
 
 
     #download Source Artist file
-    with pysftp.Connection(host=myHostname, username=myUsername, password=myPassword) as sftp_download:
-        print("Download connection succesfully stablished ... \n")
-
-        artist_names = {}
-        try:
-            sftp_download.get('/Export/' + SourceFileName)
-        except Exception as e1:
-            print("File not found")
-            logging.error("sftp_download file not found error exception: ", exc_info=True)
-            logging.critical("sftp_download file not found critical exception: ", exc_info=True)
-            logging.warning("sftp_download file not found warning: ", exc_info=True)
+    if 1==1:
 
         artists = pd.read_csv(SourceFileName, encoding='UTF-16', sep="|", error_bad_lines=False)#   #For testing , nrows=10
 
         artist_names = artists[['Artist_Name']].drop_duplicates()
         artist_names['FULL_NAME'] = artist_names['Artist_Name']
         print(artist_names)
-        sftp_download.close()
+
 
         print("Starting the process to extract ArtistID's")
 
@@ -239,6 +229,12 @@ try:
             except:
                 pass
                 print('no data')
+
+        df_artists_ids = pd.DataFrame(artist_list,
+                          columns=['artist_name', 'id'])
+        LocalFileName = OutputFileName + '.csv'
+        FinalOutputFileName = OutputFileName + '_' + now.strftime('%Y-%m-%d') + '.csv'
+        df_artists_ids.to_csv('artists_ids_repo.csv', sep=',', index=False)
 
         #print(artist_list)
 
