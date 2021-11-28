@@ -1,0 +1,2866 @@
+2021-03-13 13:10:19,060 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-03-13 13:10:19,385 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP08)'
+2021-03-13 13:10:19,386 INFO     Authentication (password) successful!
+2021-03-13 13:10:19,506 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-03-13 13:10:20,023 INFO     [chan 0] sftp session closed.
+2021-03-13 13:10:26,986 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-03-13 13:10:27,322 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP11)'
+2021-03-13 13:10:27,324 INFO     Authentication (password) successful!
+2021-03-13 13:10:27,446 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-03-13 13:10:27,815 INFO     [chan 0] sftp session closed.
+2021-03-13 13:16:36,294 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-03-13 13:16:36,624 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP06)'
+2021-03-13 13:16:36,624 INFO     Authentication (password) successful!
+2021-03-13 13:16:36,744 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-03-13 13:16:37,270 INFO     [chan 0] sftp session closed.
+2021-03-13 13:16:44,098 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-03-13 13:16:44,436 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP05)'
+2021-03-13 13:16:44,436 INFO     Authentication (password) successful!
+2021-03-13 13:16:44,585 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-03-13 13:16:44,961 INFO     [chan 0] sftp session closed.
+2021-03-13 13:17:29,915 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-03-13 13:17:30,258 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP11)'
+2021-03-13 13:17:30,258 INFO     Authentication (password) successful!
+2021-03-13 13:17:30,390 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-03-13 13:17:30,953 INFO     [chan 0] sftp session closed.
+2021-03-13 13:17:37,638 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-03-13 13:17:37,963 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP04)'
+2021-03-13 13:17:37,963 INFO     Authentication (password) successful!
+2021-03-13 13:17:38,082 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-03-13 13:17:38,465 INFO     [chan 0] sftp session closed.
+2021-03-13 13:18:10,433 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-03-13 13:18:10,798 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP12)'
+2021-03-13 13:18:10,799 INFO     Authentication (password) successful!
+2021-03-13 13:18:10,923 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-03-13 13:18:11,447 INFO     [chan 0] sftp session closed.
+2021-03-13 13:18:18,442 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-03-13 13:18:18,761 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP04)'
+2021-03-13 13:18:18,761 INFO     Authentication (password) successful!
+2021-03-13 13:18:18,878 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-03-13 13:18:19,250 INFO     [chan 0] sftp session closed.
+2021-03-13 13:20:53,019 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-03-13 13:20:53,363 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP12)'
+2021-03-13 13:20:53,364 INFO     Authentication (password) successful!
+2021-03-13 13:20:53,486 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-03-13 13:20:54,027 INFO     [chan 0] sftp session closed.
+2021-03-13 13:21:01,338 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-03-13 13:21:01,665 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP06)'
+2021-03-13 13:21:01,665 INFO     Authentication (password) successful!
+2021-03-13 13:21:01,790 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-03-13 13:21:02,204 INFO     [chan 0] sftp session closed.
+2021-04-05 11:41:57,240 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-04-05 11:41:57,553 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP08)'
+2021-04-05 11:41:57,553 INFO     Authentication (password) successful!
+2021-04-05 11:41:57,662 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-04-05 11:41:58,209 INFO     [chan 0] sftp session closed.
+2021-04-05 11:59:57,344 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-04-05 11:59:57,672 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP11)'
+2021-04-05 11:59:57,672 INFO     Authentication (password) successful!
+2021-04-05 11:59:57,781 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-04-05 11:59:58,266 INFO     [chan 0] sftp session closed.
+2021-04-05 12:10:57,307 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-04-05 12:10:57,636 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP05)'
+2021-04-05 12:10:57,636 INFO     Authentication (password) successful!
+2021-04-05 12:10:57,745 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-04-05 12:10:58,229 INFO     [chan 0] sftp session closed.
+2021-04-05 12:18:09,712 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-04-05 12:18:10,055 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP12)'
+2021-04-05 12:18:10,055 INFO     Authentication (password) successful!
+2021-04-05 12:18:10,149 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-04-05 12:18:10,633 INFO     [chan 0] sftp session closed.
+2021-04-05 12:48:01,392 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-04-05 12:48:01,721 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP03)'
+2021-04-05 12:48:01,721 INFO     Authentication (password) successful!
+2021-04-05 12:48:01,814 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-04-05 12:48:02,392 INFO     [chan 0] sftp session closed.
+2021-04-05 14:36:11,376 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-04-05 14:36:11,704 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP08)'
+2021-04-05 14:36:11,704 INFO     Authentication (password) successful!
+2021-04-05 14:36:11,813 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-04-05 14:36:12,392 INFO     [chan 0] sftp session closed.
+2021-04-05 15:24:06,313 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-04-05 15:24:06,641 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP11)'
+2021-04-05 15:24:06,641 INFO     Authentication (password) successful!
+2021-04-05 15:24:06,734 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-04-05 15:24:39,891 INFO     [chan 0] sftp session closed.
+2021-04-06 07:48:01,467 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-04-06 07:48:01,779 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP05)'
+2021-04-06 07:48:01,779 INFO     Authentication (password) successful!
+2021-04-06 07:48:01,888 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-04-06 07:48:02,404 INFO     [chan 0] sftp session closed.
+2021-04-06 14:03:39,050 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-04-06 14:03:39,378 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP06)'
+2021-04-06 14:03:39,378 INFO     Authentication (password) successful!
+2021-04-06 14:03:39,472 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-04-06 14:03:40,018 INFO     [chan 0] sftp session closed.
+2021-04-06 14:07:01,252 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-04-06 14:07:01,580 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP06)'
+2021-04-06 14:07:01,580 INFO     Authentication (password) successful!
+2021-04-06 14:07:01,689 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-04-06 14:07:02,189 INFO     [chan 0] sftp session closed.
+2021-04-06 14:22:01,294 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-04-06 14:22:01,622 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP05)'
+2021-04-06 14:22:01,622 INFO     Authentication (password) successful!
+2021-04-06 14:22:01,716 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-04-06 14:22:02,231 INFO     [chan 0] sftp session closed.
+2021-04-06 21:02:02,886 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-04-06 21:02:03,215 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP04)'
+2021-04-06 21:02:03,215 INFO     Authentication (password) successful!
+2021-04-06 21:02:03,308 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-04-06 21:02:03,824 INFO     [chan 0] sftp session closed.
+2021-04-06 21:02:06,933 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-04-06 21:02:07,261 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP07)'
+2021-04-06 21:02:07,261 INFO     Authentication (password) successful!
+2021-04-06 21:02:07,371 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-04-06 21:02:07,652 INFO     [chan 0] sftp session closed.
+2021-04-06 21:06:01,292 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-04-06 21:06:01,621 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP04)'
+2021-04-06 21:06:01,621 INFO     Authentication (password) successful!
+2021-04-06 21:06:01,714 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-04-06 21:06:02,199 INFO     [chan 0] sftp session closed.
+2021-04-06 21:06:05,183 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-04-06 21:06:05,496 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP11)'
+2021-04-06 21:06:05,496 INFO     Authentication (password) successful!
+2021-04-06 21:06:05,605 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-04-06 21:06:05,902 INFO     [chan 0] sftp session closed.
+2021-04-06 21:15:25,725 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-04-06 21:15:26,053 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP04)'
+2021-04-06 21:15:26,053 INFO     Authentication (password) successful!
+2021-04-06 21:15:26,146 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-04-06 21:15:26,631 INFO     [chan 0] sftp session closed.
+2021-04-06 21:15:29,584 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-04-06 21:15:29,912 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP07)'
+2021-04-06 21:15:29,912 INFO     Authentication (password) successful!
+2021-04-06 21:15:30,006 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-04-06 21:15:30,287 INFO     [chan 0] sftp session closed.
+2021-04-06 21:24:01,321 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-04-06 21:24:01,665 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP11)'
+2021-04-06 21:24:01,665 INFO     Authentication (password) successful!
+2021-04-06 21:24:01,759 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-04-06 21:24:02,243 INFO     [chan 0] sftp session closed.
+2021-04-06 21:24:05,322 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-04-06 21:24:05,650 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP12)'
+2021-04-06 21:24:05,650 INFO     Authentication (password) successful!
+2021-04-06 21:24:05,744 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-04-06 21:24:06,040 INFO     [chan 0] sftp session closed.
+2021-04-06 21:53:46,193 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-04-06 21:53:46,505 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP05)'
+2021-04-06 21:53:46,505 INFO     Authentication (password) successful!
+2021-04-06 21:53:46,615 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-04-06 21:53:47,083 INFO     [chan 0] sftp session closed.
+2021-04-06 21:53:50,224 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-04-06 21:53:50,536 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP03)'
+2021-04-06 21:53:50,536 INFO     Authentication (password) successful!
+2021-04-06 21:53:50,646 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-04-06 21:53:50,927 INFO     [chan 0] sftp session closed.
+2021-04-07 08:00:02,116 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-04-07 08:00:02,429 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP07)'
+2021-04-07 08:00:02,429 INFO     Authentication (password) successful!
+2021-04-07 08:00:02,538 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-04-07 08:00:03,069 INFO     [chan 0] sftp session closed.
+2021-04-07 08:00:06,272 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-04-07 08:00:06,600 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP05)'
+2021-04-07 08:00:06,600 INFO     Authentication (password) successful!
+2021-04-07 08:00:06,710 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-04-07 08:00:06,991 INFO     [chan 0] sftp session closed.
+2021-04-08 08:00:03,331 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-04-08 08:00:03,659 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP07)'
+2021-04-08 08:00:03,659 INFO     Authentication (password) successful!
+2021-04-08 08:00:03,768 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-04-08 08:00:04,284 INFO     [chan 0] sftp session closed.
+2021-04-09 08:00:03,279 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-04-09 08:00:03,607 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP03)'
+2021-04-09 08:00:03,607 INFO     Authentication (password) successful!
+2021-04-09 08:00:03,716 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-04-09 08:00:04,279 INFO     [chan 0] sftp session closed.
+2021-04-10 08:00:03,368 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-04-10 08:00:03,681 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP06)'
+2021-04-10 08:00:03,681 INFO     Authentication (password) successful!
+2021-04-10 08:00:03,790 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-04-10 08:00:04,337 INFO     [chan 0] sftp session closed.
+2021-04-11 08:00:03,269 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-04-11 08:00:03,597 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP05)'
+2021-04-11 08:00:03,597 INFO     Authentication (password) successful!
+2021-04-11 08:00:03,707 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-04-11 08:00:04,238 INFO     [chan 0] sftp session closed.
+2021-04-12 08:00:03,464 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-04-12 08:00:03,776 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP06)'
+2021-04-12 08:00:03,776 INFO     Authentication (password) successful!
+2021-04-12 08:00:03,886 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-04-12 08:00:04,401 INFO     [chan 0] sftp session closed.
+2021-04-13 08:00:03,522 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-04-13 08:00:03,835 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP05)'
+2021-04-13 08:00:03,835 INFO     Authentication (password) successful!
+2021-04-13 08:00:03,944 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-04-13 08:00:04,460 INFO     [chan 0] sftp session closed.
+2021-04-13 08:47:16,682 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-04-13 08:47:17,010 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP11)'
+2021-04-13 08:47:17,010 INFO     Authentication (password) successful!
+2021-04-13 08:47:17,104 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-04-13 08:47:48,932 INFO     [chan 0] sftp session closed.
+2021-04-13 16:00:16,555 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-04-13 16:00:16,899 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP05)'
+2021-04-13 16:00:16,899 INFO     Authentication (password) successful!
+2021-04-13 16:00:16,993 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-04-13 16:00:17,477 INFO     [chan 0] sftp session closed.
+2021-04-13 16:46:48,025 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-04-13 16:46:48,353 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP12)'
+2021-04-13 16:46:48,353 INFO     Authentication (password) successful!
+2021-04-13 16:46:48,463 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-04-13 16:47:20,525 INFO     [chan 0] sftp session closed.
+2021-04-14 08:00:02,065 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-04-14 08:00:02,394 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP12)'
+2021-04-14 08:00:02,394 INFO     Authentication (password) successful!
+2021-04-14 08:00:02,503 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-04-14 08:00:03,050 INFO     [chan 0] sftp session closed.
+2021-04-14 08:47:24,005 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-04-14 08:47:24,318 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP08)'
+2021-04-14 08:47:24,318 INFO     Authentication (password) successful!
+2021-04-14 08:47:24,427 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-04-14 08:47:57,224 INFO     [chan 0] sftp session closed.
+2021-04-15 08:00:03,386 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-04-15 08:00:03,729 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP04)'
+2021-04-15 08:00:03,729 INFO     Authentication (password) successful!
+2021-04-15 08:00:03,839 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-04-15 08:00:04,370 INFO     [chan 0] sftp session closed.
+2021-04-15 08:45:36,861 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-04-15 08:45:37,455 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP08)'
+2021-04-15 08:45:37,455 INFO     Authentication (password) successful!
+2021-04-15 08:45:37,565 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-04-15 08:46:08,955 INFO     [chan 0] sftp session closed.
+2021-04-16 08:00:03,544 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-04-16 08:00:03,872 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP06)'
+2021-04-16 08:00:03,872 INFO     Authentication (password) successful!
+2021-04-16 08:00:03,982 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-04-16 08:00:04,513 INFO     [chan 0] sftp session closed.
+2021-04-16 08:47:31,111 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-04-16 08:47:31,440 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP03)'
+2021-04-16 08:47:31,440 INFO     Authentication (password) successful!
+2021-04-16 08:47:31,549 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-04-16 08:48:04,111 INFO     [chan 0] sftp session closed.
+2021-04-17 08:00:03,498 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-04-17 08:00:03,826 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP08)'
+2021-04-17 08:00:03,826 INFO     Authentication (password) successful!
+2021-04-17 08:00:03,935 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-04-17 08:00:04,466 INFO     [chan 0] sftp session closed.
+2021-04-18 08:00:03,424 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-04-18 08:00:03,767 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP08)'
+2021-04-18 08:00:03,767 INFO     Authentication (password) successful!
+2021-04-18 08:00:03,861 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-04-18 08:00:04,423 INFO     [chan 0] sftp session closed.
+2021-04-19 08:00:03,587 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-04-19 08:00:03,915 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP06)'
+2021-04-19 08:00:03,915 INFO     Authentication (password) successful!
+2021-04-19 08:00:04,009 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-04-19 08:00:04,571 INFO     [chan 0] sftp session closed.
+2021-04-19 08:47:55,079 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-04-19 08:47:55,391 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP12)'
+2021-04-19 08:47:55,391 INFO     Authentication (password) successful!
+2021-04-19 08:47:55,501 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-04-19 08:48:29,016 INFO     [chan 0] sftp session closed.
+2021-04-20 08:00:03,506 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-04-20 08:00:03,834 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP06)'
+2021-04-20 08:00:03,834 INFO     Authentication (password) successful!
+2021-04-20 08:00:03,944 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-04-20 08:00:04,475 INFO     [chan 0] sftp session closed.
+2021-04-20 08:47:30,183 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-04-20 08:47:30,511 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP03)'
+2021-04-20 08:47:30,511 INFO     Authentication (password) successful!
+2021-04-20 08:47:30,605 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-04-20 08:48:02,792 INFO     [chan 0] sftp session closed.
+2021-04-21 08:00:03,439 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-04-21 08:00:03,767 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP07)'
+2021-04-21 08:00:03,767 INFO     Authentication (password) successful!
+2021-04-21 08:00:03,861 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-04-21 08:00:04,392 INFO     [chan 0] sftp session closed.
+2021-04-21 08:47:42,317 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-04-21 08:47:42,629 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP08)'
+2021-04-21 08:47:42,629 INFO     Authentication (password) successful!
+2021-04-21 08:47:42,739 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-04-21 08:48:14,457 INFO     [chan 0] sftp session closed.
+2021-04-22 08:00:03,417 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-04-22 08:00:03,730 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP11)'
+2021-04-22 08:00:03,730 INFO     Authentication (password) successful!
+2021-04-22 08:00:03,839 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-04-22 08:00:04,370 INFO     [chan 0] sftp session closed.
+2021-04-22 08:49:12,295 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-04-22 08:49:12,638 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP04)'
+2021-04-22 08:49:12,638 INFO     Authentication (password) successful!
+2021-04-22 08:49:12,732 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-04-22 08:49:46,482 INFO     [chan 0] sftp session closed.
+2021-04-23 08:00:03,254 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-04-23 08:00:03,583 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP11)'
+2021-04-23 08:00:03,583 INFO     Authentication (password) successful!
+2021-04-23 08:00:03,692 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-04-23 08:00:04,239 INFO     [chan 0] sftp session closed.
+2021-04-23 08:51:25,256 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-04-23 08:51:25,584 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP08)'
+2021-04-23 08:51:25,584 INFO     Authentication (password) successful!
+2021-04-23 08:51:25,678 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-04-23 08:52:00,990 INFO     [chan 0] sftp session closed.
+2021-04-24 08:00:03,486 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-04-24 08:00:03,798 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP12)'
+2021-04-24 08:00:03,798 INFO     Authentication (password) successful!
+2021-04-24 08:00:03,907 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-04-24 08:00:04,454 INFO     [chan 0] sftp session closed.
+2021-04-24 08:45:05,583 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-04-24 08:45:05,911 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP03)'
+2021-04-24 08:45:05,911 INFO     Authentication (password) successful!
+2021-04-24 08:45:06,020 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-04-24 08:45:36,192 INFO     [chan 0] sftp session closed.
+2021-04-25 08:00:03,491 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-04-25 08:00:03,819 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP03)'
+2021-04-25 08:00:03,819 INFO     Authentication (password) successful!
+2021-04-25 08:00:03,928 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-04-25 08:00:04,460 INFO     [chan 0] sftp session closed.
+2021-04-26 08:00:03,372 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-04-26 08:00:03,700 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP04)'
+2021-04-26 08:00:03,700 INFO     Authentication (password) successful!
+2021-04-26 08:00:03,810 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-04-26 08:00:04,388 INFO     [chan 0] sftp session closed.
+2021-04-27 08:00:03,444 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-04-27 08:00:03,787 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP06)'
+2021-04-27 08:00:03,787 INFO     Authentication (password) successful!
+2021-04-27 08:00:03,897 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-04-27 08:00:04,428 INFO     [chan 0] sftp session closed.
+2021-04-27 08:50:02,947 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-04-27 08:50:03,275 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP03)'
+2021-04-27 08:50:03,275 INFO     Authentication (password) successful!
+2021-04-27 08:50:03,384 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-04-27 08:50:37,759 INFO     [chan 0] sftp session closed.
+2021-04-28 08:00:02,169 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-04-28 08:00:02,482 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP11)'
+2021-04-28 08:00:02,482 INFO     Authentication (password) successful!
+2021-04-28 08:00:02,591 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-04-28 08:00:03,138 INFO     [chan 0] sftp session closed.
+2021-04-28 08:45:33,913 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-04-28 08:45:34,241 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP06)'
+2021-04-28 08:45:34,241 INFO     Authentication (password) successful!
+2021-04-28 08:45:34,335 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-04-28 08:46:05,210 INFO     [chan 0] sftp session closed.
+2021-04-29 08:00:03,693 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-04-29 08:00:04,021 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP04)'
+2021-04-29 08:00:04,021 INFO     Authentication (password) successful!
+2021-04-29 08:00:04,131 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-04-29 08:00:04,677 INFO     [chan 0] sftp session closed.
+2021-04-30 08:00:03,539 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-04-30 08:00:03,867 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP12)'
+2021-04-30 08:00:03,867 INFO     Authentication (password) successful!
+2021-04-30 08:00:03,961 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-04-30 08:00:04,492 INFO     [chan 0] sftp session closed.
+2021-04-30 08:46:06,761 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-04-30 08:46:07,105 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP07)'
+2021-04-30 08:46:07,105 INFO     Authentication (password) successful!
+2021-04-30 08:46:07,198 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-04-30 08:46:38,636 INFO     [chan 0] sftp session closed.
+2021-05-01 08:00:03,407 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-05-01 08:00:03,735 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP07)'
+2021-05-01 08:00:03,735 INFO     Authentication (password) successful!
+2021-05-01 08:00:03,845 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-05-01 08:00:04,391 INFO     [chan 0] sftp session closed.
+2021-05-02 08:00:03,515 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-05-02 08:00:03,843 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP12)'
+2021-05-02 08:00:03,843 INFO     Authentication (password) successful!
+2021-05-02 08:00:03,952 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-05-02 08:00:04,499 INFO     [chan 0] sftp session closed.
+2021-05-03 08:00:03,568 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-05-03 08:00:03,896 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP07)'
+2021-05-03 08:00:03,896 INFO     Authentication (password) successful!
+2021-05-03 08:00:03,990 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-05-03 08:00:04,552 INFO     [chan 0] sftp session closed.
+2021-05-04 08:00:03,546 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-05-04 08:00:03,874 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP04)'
+2021-05-04 08:00:03,874 INFO     Authentication (password) successful!
+2021-05-04 08:00:03,983 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-05-04 08:00:04,530 INFO     [chan 0] sftp session closed.
+2021-05-05 08:00:03,460 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-05-05 08:00:03,788 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP12)'
+2021-05-05 08:00:03,788 INFO     Authentication (password) successful!
+2021-05-05 08:00:03,882 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-05-05 08:00:04,429 INFO     [chan 0] sftp session closed.
+2021-05-05 08:46:04,417 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-05-05 08:46:04,730 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP05)'
+2021-05-05 08:46:04,730 INFO     Authentication (password) successful!
+2021-05-05 08:46:04,839 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-05-05 08:46:36,308 INFO     [chan 0] sftp session closed.
+2021-05-06 08:00:03,563 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-05-06 08:00:03,891 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP05)'
+2021-05-06 08:00:03,891 INFO     Authentication (password) successful!
+2021-05-06 08:00:03,984 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-05-06 08:00:04,531 INFO     [chan 0] sftp session closed.
+2021-05-06 08:45:52,597 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-05-06 08:45:52,926 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP07)'
+2021-05-06 08:45:52,926 INFO     Authentication (password) successful!
+2021-05-06 08:45:53,035 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-05-06 08:46:25,863 INFO     [chan 0] sftp session closed.
+2021-05-07 08:00:02,199 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-05-07 08:00:02,527 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP07)'
+2021-05-07 08:00:02,527 INFO     Authentication (password) successful!
+2021-05-07 08:00:02,637 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-05-07 08:00:03,168 INFO     [chan 0] sftp session closed.
+2021-05-07 08:45:55,187 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-05-07 08:45:55,515 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP07)'
+2021-05-07 08:45:55,515 INFO     Authentication (password) successful!
+2021-05-07 08:45:55,625 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-05-07 08:46:26,937 INFO     [chan 0] sftp session closed.
+2021-05-08 08:00:03,699 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-05-08 08:00:04,027 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP08)'
+2021-05-08 08:00:04,027 INFO     Authentication (password) successful!
+2021-05-08 08:00:04,136 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-05-08 08:00:04,683 INFO     [chan 0] sftp session closed.
+2021-05-09 08:00:03,784 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-05-09 08:00:04,112 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP06)'
+2021-05-09 08:00:04,112 INFO     Authentication (password) successful!
+2021-05-09 08:00:04,221 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-05-09 08:00:04,752 INFO     [chan 0] sftp session closed.
+2021-05-10 08:00:03,770 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-05-10 08:00:04,098 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP05)'
+2021-05-10 08:00:04,098 INFO     Authentication (password) successful!
+2021-05-10 08:00:04,192 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-05-10 08:00:04,754 INFO     [chan 0] sftp session closed.
+2021-05-10 08:46:22,360 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-05-10 08:46:22,673 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP05)'
+2021-05-10 08:46:22,673 INFO     Authentication (password) successful!
+2021-05-10 08:46:22,782 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-05-10 08:46:55,688 INFO     [chan 0] sftp session closed.
+2021-05-11 08:00:03,717 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-05-11 08:00:04,046 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP08)'
+2021-05-11 08:00:04,046 INFO     Authentication (password) successful!
+2021-05-11 08:00:04,155 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-05-11 08:00:04,686 INFO     [chan 0] sftp session closed.
+2021-05-11 08:46:39,110 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-05-11 08:46:39,438 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP08)'
+2021-05-11 08:46:39,438 INFO     Authentication (password) successful!
+2021-05-11 08:46:39,547 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-05-11 08:47:11,219 INFO     [chan 0] sftp session closed.
+2021-05-12 08:00:03,525 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-05-12 08:00:03,869 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP07)'
+2021-05-12 08:00:03,869 INFO     Authentication (password) successful!
+2021-05-12 08:00:03,963 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-05-12 08:00:04,510 INFO     [chan 0] sftp session closed.
+2021-05-12 08:46:17,155 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-05-12 08:46:17,483 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP03)'
+2021-05-12 08:46:17,483 INFO     Authentication (password) successful!
+2021-05-12 08:46:17,592 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-05-12 08:46:49,810 INFO     [chan 0] sftp session closed.
+2021-05-13 08:00:03,774 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-05-13 08:00:04,118 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP03)'
+2021-05-13 08:00:04,118 INFO     Authentication (password) successful!
+2021-05-13 08:00:04,212 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-05-13 08:00:04,759 INFO     [chan 0] sftp session closed.
+2021-05-13 08:46:15,794 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-05-13 08:46:16,122 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP08)'
+2021-05-13 08:46:16,122 INFO     Authentication (password) successful!
+2021-05-13 08:46:16,216 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-05-13 08:46:50,450 INFO     [chan 0] sftp session closed.
+2021-05-14 08:00:03,542 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-05-14 08:00:03,870 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP12)'
+2021-05-14 08:00:03,870 INFO     Authentication (password) successful!
+2021-05-14 08:00:03,964 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-05-14 08:00:04,011 ERROR    sftp_download file not found error exception: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-05-14 08:00:04,026 CRITICAL sftp_download file not found critical exception: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-05-14 08:00:04,026 WARNING  sftp_download file not found warning: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-05-14 08:00:04,026 INFO     [chan 0] sftp session closed.
+2021-05-15 08:00:03,526 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-05-15 08:00:03,854 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP08)'
+2021-05-15 08:00:03,854 INFO     Authentication (password) successful!
+2021-05-15 08:00:03,963 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-05-15 08:00:03,994 ERROR    sftp_download file not found error exception: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-05-15 08:00:04,026 CRITICAL sftp_download file not found critical exception: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-05-15 08:00:04,026 WARNING  sftp_download file not found warning: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-05-15 08:00:04,026 INFO     [chan 0] sftp session closed.
+2021-05-16 08:00:03,570 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-05-16 08:00:03,898 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP05)'
+2021-05-16 08:00:03,898 INFO     Authentication (password) successful!
+2021-05-16 08:00:03,992 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-05-16 08:00:04,038 ERROR    sftp_download file not found error exception: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-05-16 08:00:04,054 CRITICAL sftp_download file not found critical exception: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-05-16 08:00:04,054 WARNING  sftp_download file not found warning: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-05-16 08:00:04,054 INFO     [chan 0] sftp session closed.
+2021-05-17 08:00:03,642 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-05-17 08:00:03,970 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP07)'
+2021-05-17 08:00:03,970 INFO     Authentication (password) successful!
+2021-05-17 08:00:04,064 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-05-17 08:00:04,111 ERROR    sftp_download file not found error exception: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-05-17 08:00:04,127 CRITICAL sftp_download file not found critical exception: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-05-17 08:00:04,127 WARNING  sftp_download file not found warning: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-05-17 08:00:04,127 INFO     [chan 0] sftp session closed.
+2021-05-18 08:00:03,648 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-05-18 08:00:03,976 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP05)'
+2021-05-18 08:00:03,976 INFO     Authentication (password) successful!
+2021-05-18 08:00:04,086 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-05-18 08:00:04,117 ERROR    sftp_download file not found error exception: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-05-18 08:00:04,148 CRITICAL sftp_download file not found critical exception: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-05-18 08:00:04,148 WARNING  sftp_download file not found warning: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-05-18 08:00:04,148 INFO     [chan 0] sftp session closed.
+2021-05-19 08:00:03,599 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-05-19 08:00:03,943 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP12)'
+2021-05-19 08:00:03,943 INFO     Authentication (password) successful!
+2021-05-19 08:00:04,037 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-05-19 08:00:04,083 ERROR    sftp_download file not found error exception: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-05-19 08:00:04,099 CRITICAL sftp_download file not found critical exception: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-05-19 08:00:04,099 WARNING  sftp_download file not found warning: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-05-19 08:00:04,099 INFO     [chan 0] sftp session closed.
+2021-05-20 08:00:03,572 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-05-20 08:00:03,901 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP12)'
+2021-05-20 08:00:03,901 INFO     Authentication (password) successful!
+2021-05-20 08:00:04,010 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-05-20 08:00:04,041 ERROR    sftp_download file not found error exception: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-05-20 08:00:04,072 CRITICAL sftp_download file not found critical exception: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-05-20 08:00:04,072 WARNING  sftp_download file not found warning: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-05-20 08:00:04,072 INFO     [chan 0] sftp session closed.
+2021-05-21 08:00:03,643 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-05-21 08:00:03,971 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP07)'
+2021-05-21 08:00:03,971 INFO     Authentication (password) successful!
+2021-05-21 08:00:04,080 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-05-21 08:00:04,111 ERROR    sftp_download file not found error exception: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-05-21 08:00:04,143 CRITICAL sftp_download file not found critical exception: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-05-21 08:00:04,143 WARNING  sftp_download file not found warning: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-05-21 08:00:04,143 INFO     [chan 0] sftp session closed.
+2021-05-22 08:00:03,716 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-05-22 08:00:04,044 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP03)'
+2021-05-22 08:00:04,044 INFO     Authentication (password) successful!
+2021-05-22 08:00:04,154 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-05-22 08:00:04,185 ERROR    sftp_download file not found error exception: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-05-22 08:00:04,216 CRITICAL sftp_download file not found critical exception: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-05-22 08:00:04,216 WARNING  sftp_download file not found warning: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-05-22 08:00:04,216 INFO     [chan 0] sftp session closed.
+2021-05-23 08:00:03,771 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-05-23 08:00:04,099 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP11)'
+2021-05-23 08:00:04,099 INFO     Authentication (password) successful!
+2021-05-23 08:00:04,193 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-05-23 08:00:04,240 ERROR    sftp_download file not found error exception: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-05-23 08:00:04,255 CRITICAL sftp_download file not found critical exception: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-05-23 08:00:04,255 WARNING  sftp_download file not found warning: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-05-23 08:00:04,255 INFO     [chan 0] sftp session closed.
+2021-05-24 08:00:04,157 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-05-24 08:00:04,501 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP12)'
+2021-05-24 08:00:04,501 INFO     Authentication (password) successful!
+2021-05-24 08:00:04,595 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-05-24 08:00:04,642 ERROR    sftp_download file not found error exception: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-05-24 08:00:04,657 CRITICAL sftp_download file not found critical exception: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-05-24 08:00:04,657 WARNING  sftp_download file not found warning: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-05-24 08:00:04,657 INFO     [chan 0] sftp session closed.
+2021-05-25 08:00:03,804 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-05-25 08:00:04,116 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP04)'
+2021-05-25 08:00:04,116 INFO     Authentication (password) successful!
+2021-05-25 08:00:04,226 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-05-25 08:00:04,257 ERROR    sftp_download file not found error exception: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-05-25 08:00:04,288 CRITICAL sftp_download file not found critical exception: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-05-25 08:00:04,288 WARNING  sftp_download file not found warning: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-05-25 08:00:04,288 INFO     [chan 0] sftp session closed.
+2021-05-26 08:00:03,781 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-05-26 08:00:04,124 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP07)'
+2021-05-26 08:00:04,124 INFO     Authentication (password) successful!
+2021-05-26 08:00:04,234 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-05-26 08:00:04,265 ERROR    sftp_download file not found error exception: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-05-26 08:00:04,281 CRITICAL sftp_download file not found critical exception: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-05-26 08:00:04,281 WARNING  sftp_download file not found warning: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-05-26 08:00:04,281 INFO     [chan 0] sftp session closed.
+2021-05-27 08:00:03,900 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-05-27 08:00:04,212 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP03)'
+2021-05-27 08:00:04,212 INFO     Authentication (password) successful!
+2021-05-27 08:00:04,322 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-05-27 08:00:04,353 ERROR    sftp_download file not found error exception: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-05-27 08:00:04,384 CRITICAL sftp_download file not found critical exception: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-05-27 08:00:04,384 WARNING  sftp_download file not found warning: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-05-27 08:00:04,384 INFO     [chan 0] sftp session closed.
+2021-05-28 08:00:03,712 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-05-28 08:00:04,040 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP05)'
+2021-05-28 08:00:04,040 INFO     Authentication (password) successful!
+2021-05-28 08:00:04,134 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-05-28 08:00:04,180 ERROR    sftp_download file not found error exception: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-05-28 08:00:04,196 CRITICAL sftp_download file not found critical exception: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-05-28 08:00:04,196 WARNING  sftp_download file not found warning: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-05-28 08:00:04,212 INFO     [chan 0] sftp session closed.
+2021-05-29 08:00:03,704 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-05-29 08:00:04,032 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP04)'
+2021-05-29 08:00:04,032 INFO     Authentication (password) successful!
+2021-05-29 08:00:04,126 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-05-29 08:00:04,173 ERROR    sftp_download file not found error exception: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-05-29 08:00:04,189 CRITICAL sftp_download file not found critical exception: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-05-29 08:00:04,189 WARNING  sftp_download file not found warning: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-05-29 08:00:04,189 INFO     [chan 0] sftp session closed.
+2021-05-30 08:00:03,768 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-05-30 08:00:04,096 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP06)'
+2021-05-30 08:00:04,096 INFO     Authentication (password) successful!
+2021-05-30 08:00:04,190 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-05-30 08:00:04,237 ERROR    sftp_download file not found error exception: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-05-30 08:00:04,252 CRITICAL sftp_download file not found critical exception: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-05-30 08:00:04,252 WARNING  sftp_download file not found warning: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-05-30 08:00:04,252 INFO     [chan 0] sftp session closed.
+2021-05-31 08:00:03,543 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-05-31 08:00:03,872 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP03)'
+2021-05-31 08:00:03,872 INFO     Authentication (password) successful!
+2021-05-31 08:00:03,965 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-05-31 08:00:04,012 ERROR    sftp_download file not found error exception: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-05-31 08:00:04,028 CRITICAL sftp_download file not found critical exception: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-05-31 08:00:04,028 WARNING  sftp_download file not found warning: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-05-31 08:00:04,028 INFO     [chan 0] sftp session closed.
+2021-06-01 08:00:03,740 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-06-01 08:00:04,068 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP03)'
+2021-06-01 08:00:04,068 INFO     Authentication (password) successful!
+2021-06-01 08:00:04,177 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-06-01 08:00:04,208 ERROR    sftp_download file not found error exception: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-06-01 08:00:04,224 CRITICAL sftp_download file not found critical exception: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-06-01 08:00:04,224 WARNING  sftp_download file not found warning: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-06-01 08:00:04,224 INFO     [chan 0] sftp session closed.
+2021-06-02 08:00:03,613 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-06-02 08:00:03,941 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP08)'
+2021-06-02 08:00:03,941 INFO     Authentication (password) successful!
+2021-06-02 08:00:04,051 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-06-02 08:00:04,082 ERROR    sftp_download file not found error exception: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-06-02 08:00:04,113 CRITICAL sftp_download file not found critical exception: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-06-02 08:00:04,113 WARNING  sftp_download file not found warning: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-06-02 08:00:04,113 INFO     [chan 0] sftp session closed.
+2021-09-21 08:51:45,594 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-09-21 08:51:45,922 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP12)'
+2021-09-21 08:51:45,922 INFO     Authentication (password) successful!
+2021-09-21 08:51:46,016 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-09-21 08:51:46,063 ERROR    sftp_download file not found error exception: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-09-21 08:51:46,063 CRITICAL sftp_download file not found critical exception: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-09-21 08:51:46,063 WARNING  sftp_download file not found warning: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-09-21 08:51:46,063 INFO     [chan 0] sftp session closed.
+2021-09-22 08:00:03,195 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-09-22 08:00:03,507 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP06)'
+2021-09-22 08:00:03,507 INFO     Authentication (password) successful!
+2021-09-22 08:00:03,617 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-09-22 08:00:03,648 ERROR    sftp_download file not found error exception: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-09-22 08:00:03,679 CRITICAL sftp_download file not found critical exception: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-09-22 08:00:03,679 WARNING  sftp_download file not found warning: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-09-22 08:00:03,679 INFO     [chan 0] sftp session closed.
+2021-09-23 08:00:03,305 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-09-23 08:00:03,617 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP05)'
+2021-09-23 08:00:03,633 INFO     Authentication (password) successful!
+2021-09-23 08:00:03,727 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-09-23 08:00:03,773 ERROR    sftp_download file not found error exception: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-09-23 08:00:03,789 CRITICAL sftp_download file not found critical exception: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-09-23 08:00:03,789 WARNING  sftp_download file not found warning: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-09-23 08:00:03,789 INFO     [chan 0] sftp session closed.
+2021-09-24 08:00:03,169 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-09-24 08:00:03,481 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP12)'
+2021-09-24 08:00:03,481 INFO     Authentication (password) successful!
+2021-09-24 08:00:03,591 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-09-24 08:00:03,622 ERROR    sftp_download file not found error exception: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-09-24 08:00:03,653 CRITICAL sftp_download file not found critical exception: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-09-24 08:00:03,653 WARNING  sftp_download file not found warning: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-09-24 08:00:03,653 INFO     [chan 0] sftp session closed.
+2021-09-25 08:00:03,218 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-09-25 08:00:03,531 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP11)'
+2021-09-25 08:00:03,531 INFO     Authentication (password) successful!
+2021-09-25 08:00:03,640 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-09-25 08:00:03,671 ERROR    sftp_download file not found error exception: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-09-25 08:00:03,703 CRITICAL sftp_download file not found critical exception: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-09-25 08:00:03,703 WARNING  sftp_download file not found warning: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-09-25 08:00:03,703 INFO     [chan 0] sftp session closed.
+2021-09-26 08:00:03,155 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-09-26 08:00:03,499 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP11)'
+2021-09-26 08:00:03,499 INFO     Authentication (password) successful!
+2021-09-26 08:00:03,624 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-09-26 08:00:03,671 ERROR    sftp_download file not found error exception: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-09-26 08:00:03,686 CRITICAL sftp_download file not found critical exception: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-09-26 08:00:03,686 WARNING  sftp_download file not found warning: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-09-26 08:00:03,686 INFO     [chan 0] sftp session closed.
+2021-09-27 08:00:03,260 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-09-27 08:00:03,588 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP06)'
+2021-09-27 08:00:03,588 INFO     Authentication (password) successful!
+2021-09-27 08:00:03,697 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-09-27 08:00:03,729 ERROR    sftp_download file not found error exception: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-09-27 08:00:03,760 CRITICAL sftp_download file not found critical exception: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-09-27 08:00:03,760 WARNING  sftp_download file not found warning: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-09-27 08:00:03,760 INFO     [chan 0] sftp session closed.
+2021-09-28 08:00:03,226 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-09-28 08:00:03,554 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP07)'
+2021-09-28 08:00:03,554 INFO     Authentication (password) successful!
+2021-09-28 08:00:03,663 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-09-28 08:00:03,710 ERROR    sftp_download file not found error exception: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-09-28 08:00:03,726 CRITICAL sftp_download file not found critical exception: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-09-28 08:00:03,726 WARNING  sftp_download file not found warning: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-09-28 08:00:03,726 INFO     [chan 0] sftp session closed.
+2021-09-29 08:00:03,304 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-09-29 08:00:03,632 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP12)'
+2021-09-29 08:00:03,632 INFO     Authentication (password) successful!
+2021-09-29 08:00:03,742 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-09-29 08:00:03,788 ERROR    sftp_download file not found error exception: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-09-29 08:00:03,804 CRITICAL sftp_download file not found critical exception: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-09-29 08:00:03,804 WARNING  sftp_download file not found warning: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-09-29 08:00:03,804 INFO     [chan 0] sftp session closed.
+2021-09-30 08:00:03,144 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-09-30 08:00:03,472 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP03)'
+2021-09-30 08:00:03,472 INFO     Authentication (password) successful!
+2021-09-30 08:00:03,581 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-09-30 08:00:03,628 ERROR    sftp_download file not found error exception: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-09-30 08:00:03,644 CRITICAL sftp_download file not found critical exception: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-09-30 08:00:03,644 WARNING  sftp_download file not found warning: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-09-30 08:00:03,659 INFO     [chan 0] sftp session closed.
+2021-10-01 08:00:03,317 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-10-01 08:00:03,630 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP03)'
+2021-10-01 08:00:03,630 INFO     Authentication (password) successful!
+2021-10-01 08:00:03,739 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-10-01 08:00:03,771 ERROR    sftp_download file not found error exception: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-10-01 08:00:03,786 CRITICAL sftp_download file not found critical exception: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-10-01 08:00:03,786 WARNING  sftp_download file not found warning: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-10-01 08:00:03,802 INFO     [chan 0] sftp session closed.
+2021-10-01 10:00:01,786 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-10-01 10:00:02,114 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP04)'
+2021-10-01 10:00:02,114 INFO     Authentication (password) successful!
+2021-10-01 10:00:02,207 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-10-01 10:00:02,254 ERROR    sftp_download file not found error exception: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-10-01 10:00:02,270 CRITICAL sftp_download file not found critical exception: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-10-01 10:00:02,270 WARNING  sftp_download file not found warning: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-10-01 10:00:02,270 INFO     [chan 0] sftp session closed.
+2021-10-02 08:00:03,282 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-10-02 08:00:03,610 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP03)'
+2021-10-02 08:00:03,610 INFO     Authentication (password) successful!
+2021-10-02 08:00:03,703 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-10-02 08:00:03,750 ERROR    sftp_download file not found error exception: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-10-02 08:00:03,766 CRITICAL sftp_download file not found critical exception: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-10-02 08:00:03,766 WARNING  sftp_download file not found warning: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-10-02 08:00:03,766 INFO     [chan 0] sftp session closed.
+2021-10-03 08:00:03,252 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-10-03 08:00:03,580 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP06)'
+2021-10-03 08:00:03,580 INFO     Authentication (password) successful!
+2021-10-03 08:00:03,689 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-10-03 08:00:03,720 ERROR    sftp_download file not found error exception: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-10-03 08:00:03,752 CRITICAL sftp_download file not found critical exception: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-10-03 08:00:03,752 WARNING  sftp_download file not found warning: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-10-03 08:00:03,752 INFO     [chan 0] sftp session closed.
+2021-10-04 08:00:03,175 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-10-04 08:00:03,503 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP04)'
+2021-10-04 08:00:03,503 INFO     Authentication (password) successful!
+2021-10-04 08:00:03,612 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-10-04 08:00:03,644 ERROR    sftp_download file not found error exception: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-10-04 08:00:03,675 CRITICAL sftp_download file not found critical exception: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-10-04 08:00:03,675 WARNING  sftp_download file not found warning: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-10-04 08:00:03,675 INFO     [chan 0] sftp session closed.
+2021-10-05 08:00:03,326 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-10-05 08:00:03,654 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP08)'
+2021-10-05 08:00:03,654 INFO     Authentication (password) successful!
+2021-10-05 08:00:03,748 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-10-05 08:00:03,795 ERROR    sftp_download file not found error exception: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-10-05 08:00:03,810 CRITICAL sftp_download file not found critical exception: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-10-05 08:00:03,810 WARNING  sftp_download file not found warning: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-10-05 08:00:03,810 INFO     [chan 0] sftp session closed.
+2021-10-06 08:00:03,507 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-10-06 08:00:03,819 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP06)'
+2021-10-06 08:00:03,819 INFO     Authentication (password) successful!
+2021-10-06 08:00:03,929 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-10-06 08:00:03,960 ERROR    sftp_download file not found error exception: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-10-06 08:00:03,991 CRITICAL sftp_download file not found critical exception: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-10-06 08:00:03,991 WARNING  sftp_download file not found warning: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-10-06 08:00:03,991 INFO     [chan 0] sftp session closed.
+2021-10-07 08:00:03,151 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-10-07 08:00:03,463 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP12)'
+2021-10-07 08:00:03,463 INFO     Authentication (password) successful!
+2021-10-07 08:00:03,573 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-10-07 08:00:03,604 ERROR    sftp_download file not found error exception: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-10-07 08:00:03,620 CRITICAL sftp_download file not found critical exception: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-10-07 08:00:03,620 WARNING  sftp_download file not found warning: 
+Traceback (most recent call last):
+  File "main.py", line 207, in <module>
+    sftp_download.get('/Export/' + SourceFileName)
+  File "C:\Program Files\Python37\lib\site-packages\pysftp.py", line 233, in get
+    self._sftp.get(remotepath, localpath, callback=callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 802, in get
+    size = self.getfo(remotepath, fl, callback)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 778, in getfo
+    file_size = self.stat(remotepath).st_size
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 493, in stat
+    t, msg = self._request(CMD_STAT, path)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 813, in _request
+    return self._read_response(num)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 865, in _read_response
+    self._convert_status(msg)
+  File "C:\Program Files\Python37\lib\site-packages\paramiko\sftp_client.py", line 894, in _convert_status
+    raise IOError(errno.ENOENT, text)
+FileNotFoundError: [Errno 2] No such file
+2021-10-07 08:00:03,635 INFO     [chan 0] sftp session closed.
+2021-10-07 14:30:52,539 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-10-07 14:30:52,867 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP06)'
+2021-10-07 14:30:52,867 INFO     Authentication (password) successful!
+2021-10-07 14:30:52,977 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-10-07 14:30:53,477 INFO     [chan 0] sftp session closed.
+2021-10-07 15:39:07,742 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-10-07 15:39:08,070 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP07)'
+2021-10-07 15:39:08,070 INFO     Authentication (password) successful!
+2021-10-07 15:39:08,179 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-10-07 15:39:22,523 INFO     [chan 0] sftp session closed.
+2021-10-08 08:00:03,399 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-10-08 08:00:03,728 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP12)'
+2021-10-08 08:00:03,728 INFO     Authentication (password) successful!
+2021-10-08 08:00:03,821 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-10-08 08:00:04,306 INFO     [chan 0] sftp session closed.
+2021-10-08 09:07:23,309 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-10-08 09:07:23,637 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP05)'
+2021-10-08 09:07:23,637 INFO     Authentication (password) successful!
+2021-10-08 09:07:23,731 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-10-08 09:07:39,559 INFO     [chan 0] sftp session closed.
+2021-10-09 08:00:03,471 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-10-09 08:00:03,799 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP06)'
+2021-10-09 08:00:03,799 INFO     Authentication (password) successful!
+2021-10-09 08:00:03,892 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-10-09 08:00:04,377 INFO     [chan 0] sftp session closed.
+2021-10-09 09:06:53,009 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-10-09 09:06:53,337 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP08)'
+2021-10-09 09:06:53,337 INFO     Authentication (password) successful!
+2021-10-09 09:06:53,430 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-10-09 09:07:10,071 INFO     [chan 0] sftp session closed.
+2021-10-10 08:00:03,534 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-10-10 08:00:03,862 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP07)'
+2021-10-10 08:00:03,862 INFO     Authentication (password) successful!
+2021-10-10 08:00:03,956 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-10-10 08:00:04,456 INFO     [chan 0] sftp session closed.
+2021-10-10 09:06:35,927 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-10-10 09:06:36,240 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP08)'
+2021-10-10 09:06:36,240 INFO     Authentication (password) successful!
+2021-10-10 09:06:36,349 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-10-10 09:06:53,395 INFO     [chan 0] sftp session closed.
+2021-10-11 08:00:03,419 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-10-11 08:00:03,748 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP07)'
+2021-10-11 08:00:03,748 INFO     Authentication (password) successful!
+2021-10-11 08:00:03,857 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-10-11 08:00:04,341 INFO     [chan 0] sftp session closed.
+2021-10-12 08:00:03,377 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-10-12 08:00:03,752 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP04)'
+2021-10-12 08:00:03,752 INFO     Authentication (password) successful!
+2021-10-12 08:00:03,862 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-10-12 08:00:04,674 INFO     [chan 0] sftp session closed.
+2021-10-13 22:45:56,094 INFO     Connected (version 2.0, client 7.9.0.0_openssh)
+2021-10-13 22:45:56,530 INFO     Auth banner: b'Welcome to Salesforce Marketing Cloud FTP Service (FTP11)'
+2021-10-13 22:45:56,530 INFO     Authentication (password) successful!
+2021-10-13 22:45:56,665 INFO     [chan 0] Opened sftp connection (server version 3)
+2021-10-13 22:45:57,408 INFO     [chan 0] sftp session closed.

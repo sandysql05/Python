@@ -202,17 +202,28 @@ try:
     if 1==1:
 
         artists = pd.read_csv(SourceFileName, encoding='UTF-16', sep="|", error_bad_lines=False)#   #For testing , nrows=10
+        #print(artists.head(10))
+        artists_ids_repo = pd.read_csv("artists_ids_repo.csv",  sep=",", error_bad_lines=False)
+        #print(artists_ids_repo.head(10))
 
-        artist_names = artists[['Artist_Name']].drop_duplicates()
-        artist_names['FULL_NAME'] = artist_names['Artist_Name']
-        print(artist_names)
 
+        df = pd.merge(artists, artists_ids_repo,
+                      left_on='Artist_Name',
+                      right_on='artist_name',
+                      how='left')
 
-        print("Starting the process to extract ArtistID's")
+        Missing_Artist_ids = df[df['id'].isnull()]
+        print("printing artist with missing ids",Missing_Artist_ids)
+
+        Missing_Artist_ids = Missing_Artist_ids[['Artist_Name']].drop_duplicates()
+        Missing_Artist_ids['FULL_NAME'] = Missing_Artist_ids['Artist_Name']
+        print(len(Missing_Artist_ids))
+
+        print("Starting the process to extract Artists with missing ID's")
 
         artist_list = []
 
-        for artist in artist_names['FULL_NAME']:
+        for artist in Missing_Artist_ids['FULL_NAME']:
             # print(artist)
             result = spotify.search(artist, search_type='artist')['artists']['items']
             # print(result)
@@ -230,21 +241,31 @@ try:
                 pass
                 print('no data')
 
-        df_artists_ids = pd.DataFrame(artist_list,
+        df_artists_missing_ids = pd.DataFrame(artist_list,
                           columns=['artist_name', 'id'])
         LocalFileName = OutputFileName + '.csv'
         FinalOutputFileName = OutputFileName + '_' + now.strftime('%Y-%m-%d') + '.csv'
-        df_artists_ids.to_csv('artists_ids_repo.csv', sep=',', index=False)
 
-        #print(artist_list)
+        #load artists with missing id's to repo csv file.
+        df_artists_missing_ids.to_csv('artists_ids_repo.csv', sep=',', index=False, mode='a', header=False)
+
+
+        artists_ids_repo = pd.read_csv("artists_ids_repo.csv", sep=",", error_bad_lines=False)
+        # print(artists_ids_repo.head(10))
+
+        df_artists_ids = pd.merge(artists, artists_ids_repo,
+                      left_on='Artist_Name',
+                      right_on='artist_name',
+                      how='left')
+
 
         Full_Related_Artists = []
         print('Starting data load')
 
-        for i in range(len(artist_list)):
+        for index, row in df_artists_ids.iterrows():
             # time.sleep(.5)
             try:
-                Artists = getRelatedArtist(artist_list[i][0], artist_list[i][1])  # getRelatedArtist(related_artist[i])
+                Artists = getRelatedArtist(row["Artist_Name"], row["id"])  # getRelatedArtist(related_artist[i])
                 for Artist in Artists:
                     Full_Related_Artists.append(Artist)
             except:
@@ -259,15 +280,17 @@ try:
         df.to_csv(LocalFileName, sep=',', index = False)
 
         print('Operation completed')
-    with pysftp.Connection(host=myHostname, username=myUsername, password=myPassword) as sftp_upload:
-        print("Upload connection succesfully stablished ... \n")
+    # with pysftp.Connection(host=myHostname, username=myUsername, password=myPassword) as sftp_upload:
+    #     print("Upload connection succesfully stablished ... \n")
+    if 1==1:
+        
 
         remotepath = r'/Import/Spotify/'+FinalOutputFileName
         localpath = LocalFileName
 
-        o_var = sftp_upload.put(localpath, remotepath, confirm=False)
-        print('o_var:', o_var)
-        sftp_upload.close()
+        # o_var = sftp_upload.put(localpath, remotepath, confirm=False)
+        # print('o_var:', o_var)
+        # sftp_upload.close()
         print("File uploaded... \n")
     # In[ ]:
     exit(200)
